@@ -1,0 +1,59 @@
+---
+title: "[**Andrew Crumpler**](https://www.linkedin.com/in/andrewcrumpler/)" 
+output:
+  html_document:
+    df_print: paged
+---
+
+###**EDUCATION:** 
+
+*Appalachian State University* 
+
+Bachelor of Science in Business Administration | Major: Finance and Banking | Minor: Statistics 
+ 
+###**EXPERIENCE** 
+
+*Bowden Investment Group - Security Analyst*
+
+* Analyze a portfolio of securities worth over 160,000 dollars with a goal of a return beating the S&P 500 index 
+
+* Collaborate with 11 other group members to deliver buy and sell presentations for individual securities 
+
+* Utilize the Bloomberg Terminal to gather data for financial analysis 
+ 
+*Allen Wealth Management - Intern*
+
+* Gained understanding of wealth management through professional interactions with clients and managers 
+
+* Upheld high ethical standards while handling confidential documents 
+ 
+*Appalachian Student Learning Center - Tutor* 
+
+* Communicated complex finance and math concepts to help improve clients’ grades 
+
+* Awarded tutor spotlight for dedication to clients and clearly communicating complex concepts 
+ 
+*Misty Mountain Threadworks - Seamster* 
+
+* Trained new team members to produce quality products that the brand sold to customers
+
+* Implemented more efficient ways to increase production, which sped up the construction process  
+
+* Produced climbing harnesses in a timely manner while maintaining product quality to ensure client safety 
+ 
+###**INVOLVEMENT** 
+
+*The Appalachian Investors Club - Former Founding President and Member*
+
+* Established an officially recognized club to bring together students interested in investing
+
+* Created a constitution to govern the club in the most effective manner to execute the club’s mission 
+
+* Encouraged student interest in finance to help members become well-versed in the finance field 
+ 
+*FastTrack Entrepreneurship Program - Member* 
+
+* Collaborated with entrepreneurs to learn the challenges of starting a business 
+
+* Employed problem-solving methods to overcome startup business challenges 
+

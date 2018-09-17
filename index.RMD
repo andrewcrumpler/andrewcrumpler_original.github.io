@@ -1,0 +1,15 @@
+---
+title: "Welcome"
+---
+
+Hi, my name is Andrew Crumpler. I am a senior finance and banking major at Appalachian State University. I am from Boone, NC and I like the outdoors. 
+
+![*CNN.com*](https://cdn.cnn.com/cnnnext/dam/assets/170407220921-07-iconic-mountains-pitons-restricted.jpg)   
+
+
+
+
+**Contact Me**: (828)773-0193 or crumplerat@gmail.com
+
+**Checkout My Webpage Repo**: [Click Here](https://github.com/andrewcrumpler/andrewcrumpler.github.io)
+   
